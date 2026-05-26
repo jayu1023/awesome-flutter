@@ -325,6 +325,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parsed Text](https://github.com/fayeed/flutter_parsed_text) [222⭐] - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/).
 - [TeX](https://github.com/shah-xad/flutter_tex) [295⭐] - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad).
 - [Code Field](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev).
+- [streamdown](https://github.com/jayu1023/streamdown) <!--stargazersjayu1023/streamdown--> - Flicker-free streaming markdown renderer for Flutter AI chat apps. 188× faster than `flutter_markdown` on chunked input. Drop-in API.
+
 
 ### Forms
 - [Form Builder](https://github.com/danvick/flutter_form_builder) [1581⭐] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick).
