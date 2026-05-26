@@ -325,7 +325,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parsed Text](https://github.com/fayeed/flutter_parsed_text) [222⭐] - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/).
 - [TeX](https://github.com/shah-xad/flutter_tex) [295⭐] - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad).
 - [Code Field](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev).
-
 ### Forms
 - [Form Builder](https://github.com/danvick/flutter_form_builder) [1581⭐] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick).
 - [Reactive Forms](https://github.com/joanpablo/reactive_forms) [490⭐] - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
